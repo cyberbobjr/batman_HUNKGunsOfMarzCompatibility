@@ -1,0 +1,36 @@
+version=1
+id=3810695874
+title=H.U.N.K Profession - Guns of Marz Compatibility
+tags=Build 42;Weapons;Military
+visibility=private
+description=[h1]H.U.N.K Profession - Guns of Marz Compatibility[/h1]
+description=
+description=[b]Build 42.21 · Compatibility patch[/b]
+description=
+description=A small patch so the HUNK starting kit from [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3678932953]H.U.N.K Profession[/url] works with [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3722134990]Guns of Marz[/url].
+description=
+description=[h2]The problem[/h2]
+description=
+description=When the Guns of Marz sandbox option [b]Vanilla Weapon Replacement[/b] is on, Guns of Marz swaps every vanilla gun, magazine, ammo box and attachment for a random Guns of Marz model one tick after it reaches a container. The HUNK starts with vanilla guns: they were replaced by random models, lost their sights and lasers, the loaded magazines were gone, and random extra magazines and boxes were dumped in the inventory.
+description=
+description=[h2]What this patch does[/h2]
+description=
+description=When the replacement is enabled, the HUNK kit is built directly with Guns of Marz items:
+description=[list]
+description=[*][b]M16A2[/b] with an EXPS3 sight and an LRX-7 laser, one loaded 30-round STANAG magazine plus 7 in the hip pouches, and 7 boxes of 5.56x45.
+description=[*]HUNK: [b]Beretta M92FS[/b] with a PS1 sight and a PX1 laser, one loaded 15-round magazine plus 7 in the pouches, and 7 boxes of 9x19.
+description=[*]Lady HUNK: [b]Colt Python[/b] with a PS1 sight, loaded, 21 loose .357 rounds and 7 boxes.
+description=[/list]
+description=The clothes, pouches, first aid kit, knives, crowbar, Molotovs and smoke bombs are unchanged. When the replacement is off, the original vanilla kit is given, exactly as before.
+description=
+description=[h2]Requirements[/h2]
+description=
+description=[list]
+description=[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3678932953]H.U.N.K Profession[/url] (and its own requirements)
+description=[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3722134990]Guns of Marz[/url] (and its own requirements)
+description=[/list]
+description=Enable this patch after both mods. It replaces H.U.N.K Profession's [i]HUNKPro_Profession_items.lua[/i]; it must be updated if that file changes.
+description=
+description=[h2]Credits[/h2]
+description=
+description=H.U.N.K Profession by Too Much Jello, Guns of Marz by Marz: all the content and the original starting kit are theirs. The poster uses the posters of both mods.

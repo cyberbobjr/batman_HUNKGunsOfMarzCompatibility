@@ -1,0 +1,10 @@
+Thumbs.db
+desktop.ini
+.DS_Store
+__pycache__/
+*.bak
+*.tmp
+.env
+docs/gom_ws.img
+docs/poster_512.png
+docs/preview_256.png

@@ -1,0 +1,8 @@
+name=batman_H.U.N.K Profession - Guns of Marz Compatibility
+id=batman_HUNKGunsOfMarzCompatibility
+description=Compatibility patch: replaces H.U.N.K Profession's HUNKPro_Profession_items.lua. When Guns of Marz replaces vanilla weapons (sandbox VanillaWeaponReplacement), the HUNK starting kit is built directly with Guns of Marz items (M16A2, Beretta M92FS or Colt Python, loaded magazines, matching ammo boxes and sights/lasers) instead of vanilla guns that Guns of Marz swaps one tick later for random models, losing the attachments and the loaded magazines. Otherwise the original kit is kept.
+poster=poster.png
+require=\HUNKPro,\GunsOfMarz
+loadModAfter=HUNKPro,GunsOfMarz
+versionMin=42.21
+modversion=1.0.0
