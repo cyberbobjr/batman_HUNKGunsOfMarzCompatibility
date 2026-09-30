@@ -29,3 +29,4 @@ Activer ce correctif après les deux mods. Il remplace le fichier [i]HUNKPro_Pro
 [h2]Crédits[/h2]
 
 H.U.N.K Profession par Too Much Jello, Guns of Marz par Marz : tout le contenu et l'équipement de départ d'origine leur appartiennent. Le poster reprend les posters des deux mods.
+Fichiers du correctif sur [url=https://github.com/cyberbobjr/batman_HUNKGunsOfMarzCompatibility]GitHub[/url].

@@ -34,3 +34,4 @@ description=
 description=[h2]Credits[/h2]
 description=
 description=H.U.N.K Profession by Too Much Jello, Guns of Marz by Marz: all the content and the original starting kit are theirs. The poster uses the posters of both mods.
+description=Patch files on [url=https://github.com/cyberbobjr/batman_HUNKGunsOfMarzCompatibility]GitHub[/url].
