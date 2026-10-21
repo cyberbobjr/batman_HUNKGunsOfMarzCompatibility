@@ -31,6 +31,11 @@ description=[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=37221
 description=[/list]
 description=Enable this patch after both mods. It replaces H.U.N.K Profession's [i]HUNKPro_Profession_items.lua[/i]; it must be updated if that file changes.
 description=
+description=[h2]Discord[/h2]
+description=
+description=Questions, bug reports or ideas? Join the Discord:
+description=[url=https://discord.gg/QEsBya7hUA]https://discord.gg/QEsBya7hUA[/url]
+description=
 description=[h2]Credits[/h2]
 description=
 description=H.U.N.K Profession by Too Much Jello, Guns of Marz by Marz: all the content and the original starting kit are theirs. The poster uses the posters of both mods.
