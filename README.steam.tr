@@ -1,0 +1,37 @@
+[h1]H.U.N.K Profession - Guns of Marz Compatibility[/h1]
+
+[b]Build 42.21 · Uyumluluk yaması[/b]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3678932953]H.U.N.K Profession[/url] modundaki H.U.N.K başlangıç donanımının [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3722134990]Guns of Marz[/url] ile çalışması için küçük bir yama.
+
+[h2]Sorun[/h2]
+
+Guns of Marz'ın [b]Vanilla Weapon Replacement[/b] (vanilla silah değişimi) seçeneği açıkken Guns of Marz, bir konteynere ulaşan her vanilla silahı, şarjörü, cephane kutusunu ve eki, bir tik sonra rastgele bir Guns of Marz modeliyle değiştirir. H.U.N.K vanilla silahlarla başlar: bunlar rastgele modellere dönüşüyor, nişangâh ve lazerlerini kaybediyor, dolu şarjörleri yok oluyor ve envantere rastgele fazla şarjör ile kutular düşüyordu.
+
+[h2]Bu yama ne yapar[/h2]
+
+Değişim açıkken H.U.N.K donanımı doğrudan Guns of Marz eşyalarıyla oluşturulur:
+[list]
+[*][b]M16A2[/b]: EXPS3 nişangâh ve LRX-7 lazerle, dolu bir 30 mermilik STANAG şarjörü, kalça cebinde 7 tane daha ve 7 kutu 5.56x45.
+[*]HUNK: [b]Beretta M92FS[/b]: PS1 nişangâh ve PX1 lazerle, dolu bir 15 mermilik şarjör, cebinde 7 tane daha ve 7 kutu 9x19.
+[*]Lady HUNK: [b]Colt Python[/b]: PS1 nişangâhla, dolu, 21 adet gevşek .357 mermi ve 7 kutu.
+[/list]
+Kıyafetler, cepler, ilk yardım çantası, bıçaklar, kerpeten, Molotov kokteyli ve duman bombaları değişmez. Değişim kapalıyken orijinal vanilla donanım, daha önce olduğu gibi verilir.
+
+[h2]Gereksinimler[/h2]
+
+[list]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3678932953]H.U.N.K Profession[/url] (ve kendi gereksinimleri)
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3722134990]Guns of Marz[/url] (ve kendi gereksinimleri)
+[/list]
+Bu yamayı iki moddan sonra etkinleştir. H.U.N.K Profession'ın [i]HUNKPro_Profession_items.lua[/i] dosyasının yerine geçer; o dosya değişirse güncellenmesi gerekir.
+
+[h2]Discord[/h2]
+
+Soru, hata bildirimi ya da fikrin mi var? Discord'a katıl:
+[url=https://discord.gg/QEsBya7hUA]https://discord.gg/QEsBya7hUA[/url]
+
+[h2]Emek geçenler[/h2]
+
+H.U.N.K Profession: Too Much Jello, Guns of Marz: Marz. Tüm içerik ve özgün başlangıç donanımı onlara ait. Poster, iki modun posterlerini kullanır.
+Yama dosyaları: [url=https://github.com/cyberbobjr/batman_HUNKGunsOfMarzCompatibility]GitHub[/url].
